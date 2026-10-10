@@ -1,0 +1,6 @@
+{
+  "name": "Mercato Local — Neighborhood Marketplace & Stores",
+  "description": "Discover, shop, and sell local goods and visit neighborhood stores with real-time chat, location radius filters, secure escrow payments, inventory dashboard, and instant order updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
